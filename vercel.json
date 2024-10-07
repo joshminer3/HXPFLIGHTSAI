@@ -12,9 +12,6 @@
         "src": "/(.*)",
         "dest": "flights.py"
       }
-    ],
-    "scripts": {
-    "build": "[my-framework] build --output public"
-  }
+    ]
   }
   
